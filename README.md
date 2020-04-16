@@ -121,7 +121,7 @@ Module managed by [insight-icon](https://github.com/insight-icon)
 
 ## Credits
 
-- [Anton Babenko](https://github.com/antonbabenko)
+- [Richard Mah](https://github.com/shinyfoil)
 
 ## License
 
