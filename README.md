@@ -117,7 +117,7 @@ To run them:
 
 ## Authors
 
-Module managed by [Richard Mah](https://github.com/shinyfoil)
+Module managed by [insight-icon](https://github.com/insight-icon)
 
 ## Credits
 
