@@ -89,7 +89,7 @@ variable "zone_id" {
 variable "vpc_name" {
   description = "The name of the VPC"
   type        = string
-  default     = "polkadot"
+  default     = "icon"
 }
 
 variable "azs" {
